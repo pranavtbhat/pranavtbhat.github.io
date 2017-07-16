@@ -1,0 +1,18 @@
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Pranav Bhat
+description:      '                                                                                                                            '
+url:              http://pranavtbhat.me
+baseurl:          /
+
+
+author:
+  name:           'Pranav Bhat'
+  url:            https://pranavtbhat.me
+
+
+# Custom vars
+github:
+  repo:           https://github.com/pranavtbhat
