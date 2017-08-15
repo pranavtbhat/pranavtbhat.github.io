@@ -11,7 +11,7 @@ Here are some of my favorite songs!
 One of the founding members of SHM. Probably the best artist of any kind.
 
 ## 2Night : My all time favorite
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2q3JkmH5pBM&autoplay=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2q3JkmH5pBM" frameborder="0" allowfullscreen></iframe>
 
 ## Liam : Beware this one. It'll take you places!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jiInBPeL_1c" frameborder="0" allowfullscreen></iframe>
