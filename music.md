@@ -84,5 +84,3 @@ It's pronounced Deadmouse. He'll give you them goosebumps
 
 ## Internet Friends (Knifeparty) : Oh the irony (also one of the few Dubstep songs I like)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/luJJBeCFeM0" frameborder="0" allowfullscreen></iframe>
-
-## 
